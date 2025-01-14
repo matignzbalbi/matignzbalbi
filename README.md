@@ -1,6 +1,6 @@
 Matias **Gonzalez Balbi**
 
-<div style="font-size: 0;">
+<div>
   <a href="https://www.linkedin.com/in/matiasgonzalezb/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
   </a>
@@ -10,3 +10,9 @@ Matias **Gonzalez Balbi**
   </a>
 </div>
 
+<style>
+  a {
+    text-decoration: none; /* Elimina el subrayado */
+    color: inherit;        /* Hace que el color del enlace herede el del contenedor */
+  }
+</style
