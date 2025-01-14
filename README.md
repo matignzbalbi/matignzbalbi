@@ -1,11 +1,11 @@
 Matias **Gonzalez Balbi**
 
 <div>
-  <a href="https://www.linkedin.com/in/matiasgonzalezb/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/matiasgonzalezb/" target="_blank" rel="noopener noreferrer" style=  "text-decoration: none; color: inherit;">
     <img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
   </a>
   
-  <a href="https://www.linkedin.com/in/matiasgonzalezb/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/matiasgonzalezb/" target="_blank" rel="noopener noreferrer" style=  "text-decoration: none; color: inherit;">
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
