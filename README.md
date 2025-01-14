@@ -9,10 +9,3 @@ Matias **Gonzalez Balbi**
     <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<style>
-  a {
-    text-decoration: none; /* Elimina el subrayado */
-    color: inherit;        /* Hace que el color del enlace herede el del contenedor */
-  }
-</style>
