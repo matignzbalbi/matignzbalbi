@@ -15,4 +15,4 @@ Matias **Gonzalez Balbi**
     text-decoration: none; /* Elimina el subrayado */
     color: inherit;        /* Hace que el color del enlace herede el del contenedor */
   }
-</style
+</style>
