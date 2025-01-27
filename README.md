@@ -4,7 +4,7 @@
 
 
 ### About me:
-I am currently in my second year of the **Data Science Analyst** program at the National University of Luján.
+Second year **Data Science Analyst** program at the National University of Luján.
 Previously, I completed three years of the **Bachelor's in Economic Sciences** at the University of Buenos Aires.
 
 ![Static Badge](https://img.shields.io/badge/SQL-white?style=for-the-badge&logo=mysql&logoColor=black&logoSize=5)
