@@ -1,8 +1,0 @@
-pandas
-streamlit
-numpy
-plotly
-sklearn
-kmodes
-matplotlib
-seaborn
