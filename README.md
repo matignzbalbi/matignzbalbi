@@ -5,5 +5,5 @@
 - SQL (PostgreSQL, SQL Server)
 - Git, Excel, Power BI
 
-## 📫 Contacto
+## Contacto
 - Email: mrgnzbalbi@gmail.com
